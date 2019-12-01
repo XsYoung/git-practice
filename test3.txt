@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-just test3 haha ok 3q
-=======
-just test3 haha ok
->>>>>>> 24f8b565c2821bc39eb8bb2da02706fefce5154a
+just test3 haha ok 3q hallo
 
