@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 just test3 haha ok 3q halloworld
+=======
+just test3 haha ok 3q hallo
+>>>>>>> e828357a374cbe0ccaf52648f03533bdfdbad033
 
